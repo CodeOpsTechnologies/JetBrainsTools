@@ -43,6 +43,8 @@
 18. [Developing C/C++ Projects with CLion IDE and Conan C/C++ Package Manager](https://www.youtube.com/watch?v=qpOul18bXes&list=PLQ176FUIyIUb_J7ZEi2IDe9132-dq_vQL&index=42)
 
 ### DataGrip
+
+#### About the Tool 💻
 >  [DataGrip](https://www.jetbrains.com/datagrip/)  is a multi-engine database environment supporting Oracle, PostgreSQL, MySQL, Microsoft SQL Server, DB2, Sybase, SQLite, HyperSQL, Apache Derby and H2. Targeting the specific needs of professional SQL developers, DataGrip makes working with databases an enjoyable and productive experience.
 
 #### DataGrip Learning Resources
