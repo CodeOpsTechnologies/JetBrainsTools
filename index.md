@@ -2,13 +2,13 @@
 [![Generic Badge](https://img.shields.io/badge/JetBrains_Tools-royalblue.svg)](https://www.jetbrains.com)
 [![Generic Badge](https://img.shields.io/badge/CodeOps.Tech-royalblue.svg)](https://codeops.tech)
 
-## AppCode
+### AppCode
 
-### About the Tool 💻
+#### About the Tool 💻
 
 >  [App Code](https://www.jetbrains.com/objc) is an integrated development environment for Swift, Objective-C, C, C++, and JavaScript development built on JetBrains’ IntelliJ IDEA platform. The first public preview version of AppCode became available in April 2011. 
 
-### AppCode Learning Resources
+#### AppCode Learning Resources
 1. [CocoaPods support in AppCode](https://www.youtube.com/watch?v=W-dujzFOqDQ&list=PLQ176FUIyIUbgRx3HIRKFgHHkapFWv9Tf&index=2&t=3s)
 2. [Testing in AppCode](https://www.youtube.com/watch?v=DXvx6xNG_jc&list=PLQ176FUIyIUbgRx3HIRKFgHHkapFWv9Tf&index=2)
 3. [Embracing AppCode 3.0 - Tips and Tricks](https://www.youtube.com/watch?v=Poe3Rwdkl_E&list=PLQ176FUIyIUbgRx3HIRKFgHHkapFWv9Tf&index=9)
@@ -16,13 +16,13 @@
 5. [BDDing Your Objective-C Apps](https://www.youtube.com/watch?v=LXBNl-6FK1s&list=PLQ176FUIyIUbgRx3HIRKFgHHkapFWv9Tf&index=11)
 6. [Better TDD: The AppCode Advantage](https://www.youtube.com/watch?v=GtKiLWIRaqQ&list=PLQ176FUIyIUbgRx3HIRKFgHHkapFWv9Tf&index=13)
 
-## CLion
+### CLion
 
-### About the Tool 💻
+#### About the Tool 💻
 
 >  [CLion](https://www.jetbrains.com/clion) is a cross-platform C/C++ IDE for Linux, OS X, and Windows. CLion includes such features as a smart editor, code generation, code quality assurance, automated refactorings, on-the-fly code analysis, project manager, integrated version control systems and debugger.
 
-### CLion Learning Resources
+#### CLion Learning Resources
 1. [CLion Quick Tour](https://www.youtube.com/watch?v=Srnw1dI1iAA&list=PLQ176FUIyIUb_J7ZEi2IDe9132-dq_vQL&index=2&t=5s)
 2. [Can you make me productive with a C++ IDE?](https://www.youtube.com/watch?v=Bt0sZNhXW7k&list=PLQ176FUIyIUb_J7ZEi2IDe9132-dq_vQL&index=2)
 3. [CLion: A Modern C++ IDE](https://www.youtube.com/watch?v=eqQCl3PAr7U&list=PLQ176FUIyIUb_J7ZEi2IDe9132-dq_vQL&index=3)
