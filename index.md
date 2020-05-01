@@ -42,7 +42,7 @@
 17. [Debugging C/C++ Applications on Linux in CLion: From Basics to Reverse Debug](https://www.youtube.com/watch?v=2R3OSGmUmoU&list=PLQ176FUIyIUb_J7ZEi2IDe9132-dq_vQL&index=41)
 18. [Developing C/C++ Projects with CLion IDE and Conan C/C++ Package Manager](https://www.youtube.com/watch?v=qpOul18bXes&list=PLQ176FUIyIUb_J7ZEi2IDe9132-dq_vQL&index=42)
 
-<br />
+
 [![Facebook](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=facebook&style=flat&logoColor=white&colorA=royalblue)](https://www.facebook.com/CodeOpsTech)
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=royalblue)](https://www.linkedin.com/company/codeops-technologies/)
 [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=twitter&style=flat&logoColor=white&colorA=royalblue)](https://twitter.com/CodeOpsTech)
