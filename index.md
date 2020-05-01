@@ -396,7 +396,7 @@
 18. [YouTrack Sprints](https://www.youtube.com/watch?v=w5boAEGL1mI&list=PLQ176FUIyIUa7KseWXpRVUYQf0jEB1jsj&index=27)
 19. [YouTrack Backlog Management](https://www.youtube.com/watch?v=Vk_IeHmNx2Y&list=PLQ176FUIyIUa7KseWXpRVUYQf0jEB1jsj&index=28)
 20. [YouTrack Project Templates](https://www.youtube.com/watch?v=ngvKs_v-i18&list=PLQ176FUIyIUa7KseWXpRVUYQf0jEB1jsj&index=29)
-21. [YouTrack - The Art of Bug Tracking](https://www.youtube.com/watch?v=4CCiGZyEIGM&list=PLQ176FUIyIUa7KseWXpRVUYQf0jEB1jsj&index=31) \
+21. [YouTrack - The Art of Bug Tracking](https://www.youtube.com/watch?v=4CCiGZyEIGM&list=PLQ176FUIyIUa7KseWXpRVUYQf0jEB1jsj&index=31) 
 
 [![Facebook](https://img.shields.io/static/v1.svg?
 label=connect&message=@CodeOpsTech&color=grey&logo=facebook&style=flat&logoColor=white&colorA=royalblue)](https://www.facebook.com/CodeOpsTech)
